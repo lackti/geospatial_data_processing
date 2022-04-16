@@ -1,7 +1,7 @@
 # geospatial_data_processing  
 ### This project is an order from a Phd Student  
 The giving data are  :
-- **A folder containing a point shapefile **    
+- **A folder containing a point shapefile**    
 - **A folder containing the depth rasters**   
 - **A folder containing the velocity rasters**   
 
